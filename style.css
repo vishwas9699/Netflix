@@ -140,3 +140,7 @@ img{
     outline: none;
     box-shadow: 0 5px 3px rgba(0,0,0,0.45);
 }
+
+.btn:hover{
+    opacity: 0.9;
+}
